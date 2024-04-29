@@ -1,0 +1,66 @@
+
+Add  : 2  Total : 2
+Add  : 6  Total : 8
+Sub  : 9  Total : -1
+Mult : 10  Total : -10
+Number of Elements: 4, Total: -10, Average: -2.5
+
+Div  : 4  Total : 0
+Mult : 5  Total : 0
+Sub  : 6  Total : -6
+Number of Elements: 3, Total: -6, Average: -2
+
+Add  : -2  Total : -2
+Div  : -5  Total : 0.4
+Mult : -12  Total : -4.8
+Sub  : -22  Total : 17.2
+Mult : 33.5  Total : 576.2
+Number of Elements: 5, Total: 576.2, Average: 115.24
+
+Mult : -3  Total : -0
+Div  : 2.4  Total : -0
+Mult : 22.5  Total : -0
+Add  : -52  Total : -52
+Number of Elements: 4, Total: -52, Average: -13
+
+Mult : 12  Total : 0
+Sub  : 33  Total : -33
+Add  : 74  Total : 41
+Mult : 88  Total : 3608
+Number of Elements: 4, Total: 3608, Average: 902
+
+Div  : 88  Total : 0
+Add  : 31  Total : 31
+Sub  : 16  Total : 15
+Add  : 24  Total : 39
+Number of Elements: 4, Total: 39, Average: 9.75
+
+Add  : 63  Total : 63
+Sub  : 89  Total : -26
+Mult : 6.6  Total : -171.6
+Add  : 19.2  Total : -152.4
+Sub  : 38  Total : -190.4
+Number of Elements: 5, Total: -190.4, Average: -38.08
+
+Div  : 56.78  Total : 0
+Add  : 14  Total : 14
+Mult : 33.16  Total : 464.24
+Div  : 71  Total : 6.53859
+Add  : 72  Total : 78.5386
+Sub  : 42.8  Total : 35.7386
+Add  : 28  Total : 63.7386
+Number of Elements: 7, Total: 63.7386, Average: 9.10551
+
+Div  : 71  Total : 0
+Add  : 24  Total : 24
+Mult : -69  Total : -1656
+Sub  : -13  Total : -1643
+Div  : 8  Total : -205.375
+Number of Elements: 5, Total: -205.375, Average: -41.075
+
+Add  : 73  Total : 73
+Add  : -79.12  Total : -6.12
+Div  : -91  Total : 0.0672528
+Mult : 93  Total : 6.25451
+Sub  : 74  Total : -67.7455
+Number of Elements: 5, Total: -67.7455, Average: -13.5491
